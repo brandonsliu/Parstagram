@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		186FE7C42408ADD500858128 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186FE7C32408ADD500858128 /* CommentCell.swift */; };
 		18D4609323FF715F00C463EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D4609223FF715F00C463EC /* AppDelegate.swift */; };
 		18D4609523FF715F00C463EC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D4609423FF715F00C463EC /* SceneDelegate.swift */; };
 		18D4609A23FF715F00C463EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D4609823FF715F00C463EC /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		186FE7C32408ADD500858128 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		18D4608F23FF715F00C463EC /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D4609223FF715F00C463EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18D4609423FF715F00C463EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				18D4609223FF715F00C463EC /* AppDelegate.swift */,
 				18D4609423FF715F00C463EC /* SceneDelegate.swift */,
 				18D4609823FF715F00C463EC /* Main.storyboard */,
+				186FE7C32408ADD500858128 /* CommentCell.swift */,
 				18EEAEEB24026E6400A6DB40 /* PostCell.swift */,
 				18EEAEE923FF7C3D00A6DB40 /* CameraViewController.swift */,
 				18EEAEE523FF767D00A6DB40 /* LoginViewController.swift */,
@@ -221,6 +224,7 @@
 				18EEAEE823FF768500A6DB40 /* FeedViewController.swift in Sources */,
 				18D4609523FF715F00C463EC /* SceneDelegate.swift in Sources */,
 				18EEAEEC24026E6400A6DB40 /* PostCell.swift in Sources */,
+				186FE7C42408ADD500858128 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
